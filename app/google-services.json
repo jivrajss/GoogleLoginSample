@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "sampleloginproject",
+    "project_number": "768001148464",
+    "name": "SampleLoginProject"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768001148464:android:4db444040362d886",
+        "client_id": "android:com.mahroli.samplegooglelogin",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.mahroli.samplegooglelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768001148464-292h44s7f8d1sit4s02aed9l5kmlib63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mahroli.samplegooglelogin",
+            "certificate_hash": "5B8B5A711AACEFB843DC3A1728169CA621A7D7BD"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}

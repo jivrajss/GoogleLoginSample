@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleGoogleLogin</string>
+    <string name="server_key">768001148464-ledp6ehbidm4l2rpjhmi5bpkpr3a7188.apps.googleusercontent.com</string>
+</resources>
